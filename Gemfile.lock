@@ -84,6 +84,8 @@ GEM
     nokogumbo (1.4.2)
       nokogiri
     pg (0.21.0)
+    polymer-elements-rails (1.0.1)
+      polymer-rails (~> 1.0, >= 1.0.3)
     polymer-rails (1.2.4.1)
       nokogiri (~> 1.6)
       nokogumbo (= 1.4.2)
@@ -172,6 +174,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   pg (~> 0.18)
+  polymer-elements-rails
   polymer-rails
   puma (~> 3.7)
   rails (~> 5.1.1)
